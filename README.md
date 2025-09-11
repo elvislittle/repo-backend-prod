@@ -1,2 +1,2 @@
-# repo-backend-prod
-Some python code
+# This is a prod python repository for backend developers.
+Created by Pavel Kaspiarovich
